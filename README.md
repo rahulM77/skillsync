@@ -1,22 +1,26 @@
-# SkillSync
+# SkillSync – Smart Portfolio + Skill Recommender
 
-A smart portfolio + skill recommender built with HTML, CSS, and JavaScript.
+SkillSync is a dynamic and responsive portfolio template built with HTML, CSS, and JavaScript. It allows developers, designers, and students to showcase their skills while getting personalized learning recommendations.
 
 ## 🚀 Features
-- Beautiful personal portfolio
-- Smart skill recommender based on your interests
-- Responsive design and interactive UI
-- Easily extendable to ReactJS
+- Interactive skill recommendation system
+- Responsive layout (mobile-friendly)
+- Clean UI with animations
+- Open-source and beginner-friendly
 
-## 🌐 Live Demo
-Coming soon...
+## 📸 Screenshots
+(Add screenshots here)
 
-## 🤝 Contributing
-1. Fork the repo
-2. Clone your fork
-3. Create a new branch
-4. Commit and push
-5. Open a Pull Request
+## 🛠 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ## 📄 License
-MIT
+This project is licensed under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+## 🌐 Live Demo
+[https://rahulM77.github.io/SkillSync](https://rahulM77.github.io/SkillSync)
