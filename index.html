@@ -3,63 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SkillSync | Rahul Mahar</title>
+  <title>SkillSync</title>
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
   <header>
-    <nav class="navbar">
-      <h1>SkillSync</h1>
-      <ul class="nav-links">
-        <li><a href="#about">About</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#skillsync">SkillSync</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
+    <h1>Rahul Mahar</h1>
+    <h2 id="typed-text"></h2>
   </header>
 
-  <section id="hero">
-    <div class="hero-content">
-      <h2>Hi, I’m Rahul</h2>
-      <p>Frontend Developer | Creative Thinker | Learner</p>
+  <section class="about">
+    <h3>About Me</h3>
+    <p>Front-End Developer passionate about creating clean and responsive user interfaces.</p>
+  </section>
+
+  <section class="skills">
+    <h3>Skills</h3>
+    <div class="skill-cards">
+      <div class="card">HTML</div>
+      <div class="card">CSS</div>
+      <div class="card">JavaScript</div>
+      <div class="card">Responsive Design</div>
     </div>
-  </section>
-
-  <section id="about">
-    <h2>About Me</h2>
-    <p>A brief description, timeline, skills, tools...</p>
-  </section>
-
-  <section id="projects">
-    <h2>Projects</h2>
-    <div class="project-grid">
-      <!-- Project cards go here -->
-    </div>
-  </section>
-
-  <section id="skillsync">
-    <h2>Skill Recommender</h2>
-    <input type="text" id="interestInput" placeholder="e.g. frontend, UI, backend" />
-    <button onclick="getRecommendations()">Recommend Skills</button>
-    <div id="results"></div>
-  </section>
-
-  <section id="contact">
-    <h2>Contact Me</h2>
-    <form>
-      <input type="text" placeholder="Your Name" required />
-      <input type="email" placeholder="Your Email" required />
-      <textarea placeholder="Your Message"></textarea>
-      <button type="submit">Send</button>
-    </form>
   </section>
 
   <footer>
-    <p>© 2025 Rahul Mahar | SkillSync</p>
+    <p>© 2025 Rahul. All rights reserved.</p>
   </footer>
 
-  <script src="js/main.js"></script>
-  <script src="js/recommender.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>
