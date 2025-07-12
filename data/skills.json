@@ -1,0 +1,15 @@
+{
+  "frontend": {
+    "skills": ["HTML", "CSS", "JavaScript", "Accessibility", "Responsive Design"],
+    "resources": [
+      { "name": "MDN Web Docs", "link": "https://developer.mozilla.org/en-US/docs/Web" },
+      { "name": "Frontend Mentor", "link": "https://frontendmentor.io" }
+    ]
+  },
+  "ui": {
+    "skills": ["Figma", "Design Systems", "Color Theory"],
+    "resources": [
+      { "name": "DesignCourse YouTube", "link": "https://www.youtube.com/@DesignCourse" }
+    ]
+  }
+}
